@@ -11,7 +11,7 @@ To see the whole data story, click the link to [my Tableau dashboard](https://pu
 # Analysis
 ### Bike checkout times by gender:
 <img src='images\Gender_line_and_pie.png'>
-This was the first indicator that males used the bikes more often than females. The large amount of shorter duration bike trips, most at around 6 minutes, indicate that the riders didn't often go very far, which is fitting for travelling into and out of a densly populated area.
+This was the first indicator that males used the bikes more often than females. The large amount of shorter duration bike trips, most at around 6 minutes, indicate that the riders didn't often go very far, which is fitting for travelling into and out of a densely populated area.
 
 
 ### User types:

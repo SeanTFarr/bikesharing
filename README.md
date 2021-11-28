@@ -5,7 +5,7 @@
 # Objective of project
 The purpose of this project is to analyze the data from Citi Bike NYC to sell the idea that a Citi Bike in Des Moines would be a good investment. After downloading a csv file from the Citi Bike System Data page, Pandas was used to change the datatype of the "tripduration" column from an integer to a datetime datatype. Then loaded the Python file into a new csv file. Using Tableau, the data was then processed to pull out pertinent information into visulalizations for a better view of the Citi Bike operation.
 
-To see the whole data story, click the link to [my Tableau dashboard](https://public.tableau.com/app/profile/sean.farr2471/viz/Citi-Bike-Analysis_16380479507120/Analysis?publish=yes)
+To see the whole data story, click the link to [my Tableau dashboard](https://public.tableau.com/app/profile/sean.farr2471/viz/Citi-Bike-Analysis_16380479507120/CitiBikeAnalysis)
 
 ---
 # Analysis

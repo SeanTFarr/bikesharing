@@ -11,7 +11,7 @@ To see the whole data story, click the link to [my Tableau dashboard](https://pu
 # Analysis
 ### Bike checkout times by gender:
 <img src='images\Gender_line_and_pie.png'>
-The large amount of shorter duration bike trips, most at around 6 minutes, indicate that the riders didn't often go very far, which is fitting for travelling into and out of a densly populated area.
+This was the first indicator that males used the bikes more often than females. The large amount of shorter duration bike trips, most at around 6 minutes, indicate that the riders didn't often go very far, which is fitting for travelling into and out of a densly populated area.
 
 
 ### User types:
@@ -22,12 +22,12 @@ There were far more subscribers than regular customers. This indicates that the 
 
 ### Heatmaps of the weekday usage:
 <img src='images\Heatmaps.png'>
-These heatmaps show the usage being at its highest volume Monday - Friday and the highest time frames being from 7-9 a.m. and  5-7 p.m.. in a quick look at trips by gender, you see that males were more likely to use the bikes.
+These heatmaps show the usage being at its highest volume Monday - Friday and the highest time frames being from 7-9 a.m. and  5-7 p.m.. In a quick look at trips by gender, again you see that males were more likely to use the bikes.
 
 ### The Station Volume:
 <img src='images\stations.png'>
 
-In these maps, each station, both start and end stations, are indicated by a circle. the larger the circle the larger the volume. You can see that the highest concentration of stations and the largest volumes are in the heart of the city.
+In these maps, each station, both start and end stations, are indicated by a circle. The larger the circle the larger the volume. You can see that the highest concentration of stations and the largest volumes are in the heart of the city.
 ### Trip Hours:
 <img src='images\start-stop_hours.png'>
 The above bar charts show the number of trips per hour daily and includes both the subscriber and the regular customer.
